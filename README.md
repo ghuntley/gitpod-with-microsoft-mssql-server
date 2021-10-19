@@ -1,4 +1,4 @@
-# A Docker Compose template on Gitpod
+# Microsoft SQL Server via Docker Compose template on Gitpod
 
 This is a [Docker Compose](https://docs.docker.com/compose/) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
